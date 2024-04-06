@@ -1,0 +1,1 @@
+This is the folder how I implement MLP, the simplest NN of DL.
